@@ -12,8 +12,7 @@ I'm currently studying AI/ML and cybersecurity. Here on my github, you'll find p
 ![](https://nirzak-streak-stats.vercel.app/?user=JRBaiao&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JRBaiao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JRBaiao&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JRBaiao&icon=0&color=1)](https://visitcount.itsvg.in)
