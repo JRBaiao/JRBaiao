@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently studying AI/ML and cybersecurity. Here on my github, you'll find projects related to ML, AI, and cybersecurity.
 
 
