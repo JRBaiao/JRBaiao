@@ -49,16 +49,6 @@ My latest research project:
 **“How do consumer perceptions of privacy protection influence trust in AI services, and what market strategies can mitigate AI-related privacy risks?”**
 
 ---
-
-## 🛠️ Tools & Technologies
-
-**Languages:** Python, JavaScript, HTML/CSS
-**Frameworks:** Django, MediaPipe, OpenCV
-**Data Tools:** Pandas, NumPy, Scikit-learn, Matplotlib
-**Other:** Git, DBeaver, Jupyter, REST APIs
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/João Rafael A. Baião](https://www.linkedin.com/in/jo%C3%A3o-rafael-a-bai%C3%A3o-466b16283/)) 
 
