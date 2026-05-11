@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 Hi! I’m **João Rafael**, a student pursuing a **Bachelor’s in Management of AI & Machine Learning** at **UBI/ Middlesex University**. I’m passionate about building intelligent systems that solve real-world problems, with a strong focus on **cybersecurity**, **machine learning**, and **software development**.
 
