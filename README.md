@@ -1,4 +1,4 @@
-# Hi, I'm João Rafael Baião
+# Hi, I'm João Rafael
 
 **AI security and governance** · Brussels, Belgium
 
