@@ -55,4 +55,4 @@ Portuguese (native) · English · French · Spanish · Dutch (developing)
 
 ## Get in touch
 
-[LinkedIn]((https://www.linkedin.com/in/joaorafaelabaiao/))
+[LinkedIn](https://www.linkedin.com/in/joaorafaelabaiao/)
