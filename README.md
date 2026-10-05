@@ -55,4 +55,4 @@ Portuguese (native) · English · French · Spanish · Dutch (developing)
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-rafael-a-bai%C3%A3o-466b16283/)
+[LinkedIn]([https://www.linkedin.com/in/jo%C3%A3o-rafael-a-bai%C3%A3o-466b16283/](https://www.linkedin.com/in/joaorafaelabaiao/))
