@@ -21,38 +21,6 @@ I'm a final-year Business Administration student specialising in **AI and Machin
 | [**Email Spam Detection**](https://github.com/JRBaiao/Email-Spam-Detection) | NLP classifier at 98.5% accuracy, with an honest look at what the model actually learned |
 | [**Brazilian E-Commerce Database**](https://github.com/JRBaiao/Database-Management-Project) | Normalised MySQL schema, indexing strategy and business analysis on real Olist marketplace data |
 
----
-
-## Certifications
-
-**Security:** CompTIA Security+ · CompTIA Network+ · ISC2 Certified in Cybersecurity (CC)
-
-**AI security:** CompTIA SecAI+
-
-**Cloud and AI:** Microsoft AZ-900 · Microsoft AB-900 · Microsoft AB-730
-
-**Generative AI:** MIT Applied Generative AI for Digital Transformation
-
----
-
-## Skills
-
-**AI and ML:** Python, scikit-learn, TensorFlow, NLP, LLM applications, LangChain, prompt injection testing
-
-**Security:** threat detection, identity and access management, Microsoft Entra ID, Azure RBAC, phishing analysis
-
-**Governance:** EU AI Act, GDPR, risk assessment, AI system documentation
-
-**Development and data:** FastAPI, Django, SQL (MySQL), Git
-
----
-
-## Languages
-
-Portuguese (native) · English · French · Spanish · Dutch (developing)
-
----
-
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/joaorafaelabaiao/)
