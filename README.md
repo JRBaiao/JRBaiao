@@ -1,8 +1,8 @@
-#About Me:
+# About Me:
 Analytical and detail-oriented professional with a bachelor's degree specializing in AI and Machine Learning<br>Management, combining a strong academic foundation with hands-on experience in Python, data analytics,<br>cybersecurity, and AI-driven solutions. Experienced in developing and managing machine learning initiatives,<br>automating business processes, and applying technology to solve complex operational and security challenges. My<br>background bridges artificial intelligence, cloud technologies, and cybersecurity, allowing me to approach problems<br>from both technical and strategic perspectives.
 
 
-##Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaorafaelabaiao/) 
 
 # Tech Stack:
