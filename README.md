@@ -1,26 +1,18 @@
-# Hi, I'm João Rafael
+#About Me:
+Analytical and detail-oriented professional with a bachelor's degree specializing in AI and Machine Learning<br>Management, combining a strong academic foundation with hands-on experience in Python, data analytics,<br>cybersecurity, and AI-driven solutions. Experienced in developing and managing machine learning initiatives,<br>automating business processes, and applying technology to solve complex operational and security challenges. My<br>background bridges artificial intelligence, cloud technologies, and cybersecurity, allowing me to approach problems<br>from both technical and strategic perspectives.
 
-**AI security and governance** · Brussels, Belgium
 
-I work where AI systems meet security and regulation: testing how AI applications can be attacked, building defences, and translating requirements such as the **EU AI Act** and the **GDPR** into practical controls.
+##Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joaorafaelabaiao/) 
 
-I'm a final-year Business Administration student specialising in **AI and Machine Learning Management** at UBI / Middlesex University, and a former **Solutions Engineer intern at Microsoft Belgium** in the AI Business Solutions team. My projects combine hands-on engineering with the questions a governance team would ask: what can go wrong, how do we measure it, and what evidence shows the system is under control.
-
-**Open to roles** in AI security, GRC and responsible AI in Brussels.
+# Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JRBaiao&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=JRBaiao&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JRBaiao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=JRBaiao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured projects
-
-| Project | What it shows |
-|---|---|
-| [**Phishing Investigation Agent**](https://github.com/JRBaiao/Phishing-Investigation-Agent) | Local phishing triage: deterministic IOC extraction and scoring, a local LLM report through Ollama, and a verifier that checks the model's claims against the evidence |
-| [**Prompt Injection Simulator**](https://github.com/JRBaiao/Prompt-Injection-Simulator) | Six prompt injection attack scenarios across direct, RAG and agent surfaces, with mitigations and a three-layer detection pipeline |
-| [**Azure Identity Security Lab**](https://github.com/JRBaiao/Microsoft-Azure-Identity-Security-Lab) | Microsoft Entra ID and Azure RBAC: least privilege, group-based access, MFA, audit evidence and access revocation |
-| [**AI Research Agent**](https://github.com/JRBaiao/AI-Agent-Project) | LangChain tool-calling agent with web search, Wikipedia and structured Pydantic output |
-| [**Email Spam Detection**](https://github.com/JRBaiao/Email-Spam-Detection) | NLP classifier at 98.5% accuracy, with an honest look at what the model actually learned |
-| [**Brazilian E-Commerce Database**](https://github.com/JRBaiao/Database-Management-Project) | Normalised MySQL schema, indexing strategy and business analysis on real Olist marketplace data |
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/joaorafaelabaiao/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
